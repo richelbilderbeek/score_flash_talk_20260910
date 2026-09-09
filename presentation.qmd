@@ -13,18 +13,13 @@ number-offset: -1
 
 # SCoRe Flash Talk
 
-[https://github.com/richelbilderbeek/](https://github.com/richelbilderbeek/score_flash_talk_20260910)[score_flash_talk_20260910](https://github.com/score_flash_talk_20260910)
+[https://github.com/richelbilderbeek/](https://github.com/richelbilderbeek/score_flash_talk_20260910)[score_flash_talk_20260910](https://github.com/richelbilderbeek/score_flash_talk_20260910)
 
-![CC-BY-SA](CC-BY-SA_25.png) Richèl 'Rea-shell' Bilderbeek [![DOI](https://zenodo.org/badge/1253770526.svg)](https://doi.org/10.5281/zenodo.21870485)
+![CC-BY-SA](CC-BY-SA_25.png) Richèl Bilderbeek [![DOI](https://zenodo.org/badge/1253770526.svg)](https://doi.org/10.5281/zenodo.21870485)
 
 ## Goal of this talk
 
-- Give my top 3 most important tips on teaching
-- Convince you of each
-
-. . .
-
-(I will only do the first one today)
+Convince you of my first-out-of-3 teaching tips
 
 . . .
 
@@ -32,7 +27,7 @@ number-offset: -1
 
 ## Why my ideas will **not** matter
 
-I may be among the most experienced teachers (20 years, \~3.75 years full-time, +6000 hours) with formal education at the MSc level...
+I may be among the most experienced teachers (20 years, +6000 hours) with most formal education (MSc degree) in teaching ...
 
 However,
 
@@ -67,7 +62,7 @@ When ready, visit the SciLifeLab Teaching Literature Club.
 
 ![](sll_tlc_with_border.png)
 
-# Conclusion
+# Conclusion and discussion
 
 -   I have given 1 out of my 3 ideas to help improve teaching
 -   I tried to convince you using the academic literature
@@ -75,9 +70,9 @@ When ready, visit the SciLifeLab Teaching Literature Club.
 
 # Any questions?
 
-[https://github.com/richelbilderbeek/](https://github.com/richelbilderbeek/score_flash_talk_20260910)[score_flash_talk_20260910](https://github.com/score_flash_talk_20260910)
+[https://github.com/richelbilderbeek/](https://github.com/richelbilderbeek/score_flash_talk_20260910)[score_flash_talk_20260910](https://github.com/richelbilderbeek/score_flash_talk_20260910)
 
-![CC-BY-SA](CC-BY-SA_25.png) [![DOI](https://zenodo.org/badge/1253770526.svg)](https://doi.org/10.5281/zenodo.21870485)
+![CC-BY-SA](CC-BY-SA_25.png) [![DOI](https://zenodo.org/badge/1253770526.svg)](https://doi.org/10.5281/zenodo.21870485) [![](youtube_logo_25.png)](https://youtu.be/O4bLxGtTgkA)
 
 # References
 
@@ -168,14 +163,14 @@ The SciLifeLab Training Hub or other experienced teachers can help here, but the
 
 # Tip 3/3: consider growing efficiently
 
-## How to grow 1/2{visibility="hidden"}
+## How to grow 1/2
 
 | Feeling                                         | Literature                                                                                                            |
 |---------------------------------|---------------------------------------|
 | I learn by striving for good evaluation results | Misguided: most (any?) evaluation questions do not correlate with course quality `[Clayson, 2009][Uttl et al., 2017]` |
 | I learn by attending workshops/courses/seminars | These are inferior to other approaches `[Steinert et al., 2016]`                                                      |
 
-## How to grow 2/2{visibility="hidden"}
+## How to grow 2/2
 
 | Feeling                            | Literature                                                                   |
 |---------------------------------|---------------------------------------|
@@ -280,11 +275,15 @@ Teachers may have fond memories of attending university lectures as a learner.
 
 Learners report to enjoy lectures and most help comes from the structure (i.e. planning when to learn what) it gives and the peer networks that form due to attendance. Hence, it is not the lecture *itself* that is helpful `[Loughlin and Lindberg-Sand, 2022]`.
 
-## How 'Passive learning is better' is felt as such and is invalud
+## How 'Passive learning is better' is felt as such and is invalid 1/2
 
 Teachers may have fond memories of being a more efficient learner in passive teaching (or negative experiences in active teaching).
 
 This idea is well-known that students perceive this, yet the opposite is true `[Deslauriers et al., 2019]`.
+
+...
+
+## How 'Passive learning is better' is felt as such and is invalid 2/2
 
 ![`[Deslauriers et al., 2019]`, figure 1](deslauriers_et_al_2019_fig_1.jpg)
 
@@ -298,9 +297,11 @@ It is known that most evaluation results do not correlate with course quality (e
 
 'Humans can focus 20 minutes' is a commonly-held idea for which there is no evidence. <!-- Instead, people stopped taking notes after 10-15 minutes, taking notes is unrelated to attention span. Also, another experiment shows that notes are made equally under a lesson. Other papers were invalid too. I believe the paper --> `[Wilson and Korn, 2007]`. The 5-10 minutes reported by `[Svinicki, 2014]` indeed is based on nothing solid. Also, humans can focus six minutes in online classes `[Nilson and Goodson, 2021]` has no reference to the literature.
 
-## The literature may present findings in unexpected ways
+## The literature may present findings in unexpected ways 1/2
 
 ![About `[Boring & Ottoboni, 2016]`](boring_and_ottoboni_2016.jpg)
+
+## The literature may present findings in unexpected ways 2/2
 
 In `[Boring & Ottoboni, 2016]` it was reported that females were discriminated against, as they received significantly lower ratings; 'Gender biases can be large enough to cause more effective instructors to get lower SET than less effective instructors'. Upon a closer look, only 1% of all variation was explained by gender.
 
@@ -308,11 +309,15 @@ In `[Boring & Ottoboni, 2016]` it was reported that females were discriminated a
 
 Most of us are novices in teaching (i.e. less than 2 years of full-time teaching) and will typically focus on survival in the initial stage of teaching (many studies, among many other `[Admiraal et al., 2023]`).
 
-## Why 'We do not need to talk about our teaching' is false
+## Why 'We do not need to talk about our teaching' is false 1/2
 
 Most of us desire informal dialogue with colleagues.
 
 Novice teachers have the biggest need for 'informal dialogue with colleagues and participation in an in-class coaching programme' `[Mansfield and Gu, 2019]`.
+
+...
+
+## Why 'We do not need to talk about our teaching' is false 2/2
 
 ![`[Mansfield and Gu, 2019]` figure 1: what novice teachers desire most. Survey 2 is a follow-up to the same teachers sent again later](mansfield_and_gu_2019_fig_1.png)
 

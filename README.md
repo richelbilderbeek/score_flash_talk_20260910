@@ -16,6 +16,10 @@ SCoRe flash talk
 - Cutting
 - 6 mins
 - 7.5 mins
+- 9 mins
+- 9 mins
+- Minor cutting
+
 
 ## Intro
 
