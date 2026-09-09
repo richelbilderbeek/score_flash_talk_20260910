@@ -6,6 +6,17 @@ SCoRe flash talk
 
 - Duration: max 10 minutes
 
+## Timing
+
+- 18 mins: tips 1-3
+- Cutting
+- 11 mins: tip 1
+- 11.5 mins: tip 1
+- 10.5 mins: tip 1
+- Cutting
+- 6 mins
+- 7.5 mins
+
 ## Intro
 
 ## What caused this talk
