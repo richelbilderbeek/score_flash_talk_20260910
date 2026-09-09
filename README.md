@@ -1,8 +1,8 @@
-# score_flash_talk_2026
+# score_flash_talk_20260910
 
 [![DOI](https://zenodo.org/badge/1253770526.svg)](https://doi.org/10.5281/zenodo.21870485)
 
-SCoRe flash talk
+SCoRe flash talk about teaching.
 
 - Duration: 10 minutes
 - [Presentation (`.qmd`)](presentation.qmd)
