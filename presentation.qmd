@@ -13,7 +13,7 @@ number-offset: -1
 
 # SCoRe Flash Talk
 
-[https://github.com/richelbilderbeek/](https://github.com/richelbilderbeek/score_flash_talk_20260910)[score_flash_talk_20260910](https://github.com/richelbilderbeek/score_flash_talk_20260910)
+<https://github.com/richelbilderbeek/score_flash_talk_20260910>
 
 ![CC-BY-SA](CC-BY-SA_25.png) Richèl Bilderbeek [![DOI](https://zenodo.org/badge/1253770526.svg)](https://doi.org/10.5281/zenodo.21870485)
 
@@ -34,7 +34,7 @@ However,
 -   Years of experience has no effect on teaching quality `[Gore et al., 2024, Graham et al., 2020]`.
 -   Doing a teacher education has a just-below-average effect on teaching quality `[Hattie, the sequel, table 9.1, p 217]`
 
-# Tip 1/3: consider to follow the literature
+# Tip 1/3: consider to sometimes check the literature
 
 ## Problem: our feelings may be wrong
 
@@ -42,23 +42,23 @@ However,
 
 ## Feelings versus the literature 1/2
 
-| Feeling                           | Literature                                                                                                                                                                                                                                                                                      |
-|----------------------|--------------------------------------------------|
+| Feeling                           | Literature                                                                                                                                                                                                                                                 |
+|-----------------------|-------------------------------------------------|
 | Lecturing is effective            | No, it **hinders** learning `[Hattie, 2023]` <!-- page 363, effect size is -0.26 with a robustness index of 4 out of 5 and is based on 3 meta analyses using 273 studies using 27,296 people, measuring for 614 effects with a standard error of 0.08. --> |
-| I know better than the literature | Common. Beginner teachers are known to struggle to combine theory and practice `[Admiraal et al., 2023]`                                                                                                                                                                                        |
+| I know better than the literature | Common. Beginner teachers are known to struggle to combine theory and practice `[Admiraal et al., 2023]`                                                                                                                                                   |
 
 ## Feelings versus the literature 2/2
 
-| Feeling                        | Literature                                                                                                             |
-|----------------------|--------------------------------------------------|
-| I like to attend lectures      | Valid. Learners like attending lectures, but it is not the lecturing that helps them succeed `[Loughlin and Lindberg-Sand, 2022]`                                                                                                                                                                         |
-| Passive learning is better     | Common. Learners do **feel** that passive learning better, but it results in **lower** grades `[Deslauriers et al., 2019]`                        |
+| Feeling                    | Literature                                                                                                                        |
+|-----------------------|-------------------------------------------------|
+| I like to attend lectures  | Valid. Learners like attending lectures, but it is not the lecturing that helps them succeed `[Loughlin and Lindberg-Sand, 2022]` |
+| Passive learning is better | Common. Learners do **feel** that passive learning better, but it results in **lower** grades `[Deslauriers et al., 2019]`        |
 
 ## How to act on this
 
 When ready, visit the SciLifeLab Teaching Literature Club.
 
-[https://scilifelab.github.io/](https://scilifelab.github.io/teaching_literature_club/)[teaching_literature_club/](https://scilifelab.github.io/teaching_literature_club/)
+<https://scilifelab.github.io/teaching_literature_club/>
 
 ![](sll_tlc_with_border.png)
 
@@ -70,7 +70,7 @@ When ready, visit the SciLifeLab Teaching Literature Club.
 
 # Any questions?
 
-[https://github.com/richelbilderbeek/](https://github.com/richelbilderbeek/score_flash_talk_20260910)[score_flash_talk_20260910](https://github.com/richelbilderbeek/score_flash_talk_20260910)
+<https://github.com/richelbilderbeek/score_flash_talk_20260910>
 
 ![CC-BY-SA](CC-BY-SA_25.png) [![DOI](https://zenodo.org/badge/1253770526.svg)](https://doi.org/10.5281/zenodo.21870485) [![](youtube_logo_25.png)](https://youtu.be/O4bLxGtTgkA)
 
@@ -136,9 +136,9 @@ When ready, visit the SciLifeLab Teaching Literature Club.
 
 ## Other feelings versus the literature
 
-| Feeling                           | Literature                                                                                                             |
-|----------------------|--------------------------------------------------|
-| Positive evaluation results show lecturing is effective | Valid: learners **feel** that lectures are effective (but they are not) `[Deslauriers et al., 2019]` |
+| Feeling                                                 | Literature                                                                                                       |
+|-----------------------|-------------------------------------------------|
+| Positive evaluation results show lecturing is effective | Valid: learners **feel** that lectures are effective (but they are not) `[Deslauriers et al., 2019]`             |
 | .                                                       | Misguided: most evaluation results do **not** correlate with course quality `[Clayson, 2009][Uttl et al., 2017]` |
 
 # Tip 2/3: consider being open on what we are
@@ -195,8 +195,7 @@ If you want to see how that may look, [all of my peer observations are public](h
 
 Join the SciLifeLab 'Peer Observation of Teaching Group'.
 
-[https://scilifelab.github.io/](https://scilifelab.github.io/peer_observation_of_teaching_group/)
-[peer_observation_of_teaching_group/](https://scilifelab.github.io/peer_observation_of_teaching_group/)
+[https://scilifelab.github.io/](https://scilifelab.github.io/peer_observation_of_teaching_group/) [peer_observation_of_teaching_group/](https://scilifelab.github.io/peer_observation_of_teaching_group/)
 
 ## What caused this talk
 
@@ -207,7 +206,6 @@ Join the SciLifeLab 'Peer Observation of Teaching Group'.
 Intrinsic motivation is the main cause for teachers to get more efficient over time `[Layek and Koodamara, 2024]`.
 
 Maybe [my teaching portfolio](https://richelbilderbeek.github.io/teaching/) demonstrates that I have that.
-
 
 ## Years of experience may have a negative effect on teaching quality midway
 
@@ -227,41 +225,41 @@ A big meta-analyses shows that lecturing has a **negative** impact on learning `
 
 To get a perspective how negative this is, here are some other inventions and their values, from [the Hattie Ranking](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/):
 
-| ES    | Description                              |
-|-------|------------------------------------------|
-| 1.29  | Teacher estimates of achievement         |
-| 1.2   | Jigsaw method                            |
-| 0.82  | Classroom discussion                     |
+| ES   | Description                      |
+|------|----------------------------------|
+| 1.29 | Teacher estimates of achievement |
+| 1.2  | Jigsaw method                    |
+| 0.82 | Classroom discussion             |
 
 ...
 
 ## Why 'Lecturing is effective' is wrong 2/4
 
-| ES    | Description                              |
-|-------|------------------------------------------|
-| 0.7   | Feedback                                 |
-| 0.6   | Direct instruction                       |
-| 0.55  | Cooperative vs. individualistic learning |
-| 0.48  | Questioning                              |
-| 0.37  | Worked examples                          |
+| ES   | Description                              |
+|------|------------------------------------------|
+| 0.7  | Feedback                                 |
+| 0.6  | Direct instruction                       |
+| 0.55 | Cooperative vs. individualistic learning |
+| 0.48 | Questioning                              |
+| 0.37 | Worked examples                          |
 
 ## Why 'Lecturing is effective' is wrong 3/4
 
-| ES    | Description                              |
-|-------|------------------------------------------|
-| 0.29  | Homework                                 |
-| 0.22  | Clickers                                 |
-| 0.1   | Background music                         |
-| 0.04  | Humor                                    |
+| ES   | Description      |
+|------|------------------|
+| 0.29 | Homework         |
+| 0.22 | Clickers         |
+| 0.1  | Background music |
+| 0.04 | Humor            |
 
 ## Why 'Lecturing is effective' is wrong 4/4
 
-| ES    | Description                              |
-|-------|------------------------------------------|
-| -0.05 | Lack of sleep                            |
-| -0.19 | Students feeling disliked                |
-| -0.26 | **Lecturing**                            |
-| -0.36 | Depression                               |
+| ES    | Description               |
+|-------|---------------------------|
+| -0.05 | Lack of sleep             |
+| -0.19 | Students feeling disliked |
+| -0.26 | **Lecturing**             |
+| -0.36 | Depression                |
 
 ## Why 'I know better than the literature' is common
 
