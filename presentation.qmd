@@ -34,25 +34,54 @@ However,
 -   Years of experience has no effect on teaching quality `[Gore et al., 2024, Graham et al., 2020]`.
 -   Doing a teacher education has a just-below-average effect on teaching quality `[Hattie, the sequel, table 9.1, p 217]`
 
-# Tip 1/3: consider to sometimes check the literature
+# Tip 1/3: consider to *sometimes* check the literature
 
-## Problem: our feelings may be wrong
+## Why 'sometimes'?
+
+Because we should not read all literature: we are not researchers in pedagogy.
+
+I am neither: I will only show you my **best/favorite** references
+and I am happy to be corrected.
+
+## An uncontroversial illustration
+
+:::: {.columns}
+
+::: {.column width="50%"}
 
 ![](lectures_are_the_best_way_to_teach.jpg)
+
+:::
+
+::: {.column width="50%"}
+
+- There is not a single evidence-based textbook that recommends
+  lecturing longer than 20 minutes.
+- It is still common practice and people feel this is fine
+
+:::
+
+::::
+
+## Problem
+
+Our feelings may be wrong
+
+
 
 ## Feelings versus the literature 1/2
 
 | Feeling                           | Literature                                                                                                                                                                                                                                                 |
-|-----------------------|-------------------------------------------------|
+|-----------------------------------|------------------------------------------------|
 | Lecturing is effective            | No, it **hinders** learning `[Hattie, 2023]` <!-- page 363, effect size is -0.26 with a robustness index of 4 out of 5 and is based on 3 meta analyses using 273 studies using 27,296 people, measuring for 614 effects with a standard error of 0.08. --> |
 | I know better than the literature | Common. Beginner teachers are known to struggle to combine theory and practice `[Admiraal et al., 2023]`                                                                                                                                                   |
 
 ## Feelings versus the literature 2/2
 
 | Feeling                    | Literature                                                                                                                        |
-|-----------------------|-------------------------------------------------|
+|----------------------------|------------------------------------------------|
 | I like to attend lectures  | Valid. Learners like attending lectures, but it is not the lecturing that helps them succeed `[Loughlin and Lindberg-Sand, 2022]` |
-| Passive learning is better | Common. Learners do **feel** that passive learning better, but it results in **lower** grades `[Deslauriers et al., 2019]`        |
+| I learn best from lectures | Common. Learners do **feel** that lectures are more efficient, but it results in **lower** grades `[Deslauriers et al., 2019]`        |
 
 ## How to act on this
 
@@ -137,7 +166,7 @@ When ready, visit the SciLifeLab Teaching Literature Club.
 ## Other feelings versus the literature
 
 | Feeling                                                 | Literature                                                                                                       |
-|-----------------------|-------------------------------------------------|
+|------------------------|------------------------------------------------|
 | Positive evaluation results show lecturing is effective | Valid: learners **feel** that lectures are effective (but they are not) `[Deslauriers et al., 2019]`             |
 | .                                                       | Misguided: most evaluation results do **not** correlate with course quality `[Clayson, 2009][Uttl et al., 2017]` |
 
